@@ -5,7 +5,7 @@ This is a responsive single-page e-commerce application built using React, Vite,
 🔗 Deployed URL: https://your-deployed-site-url
 
 📂 GitHub Repository
-🔗 GitHub Repo: https://github.com/yourusername/GeniBix-E-commerce-Task
+🔗 GitHub Repo: https://github.com/manishsingh0418/GeniBix-Ecommerce-Task.git
 
 📦 Features
 1.	🚚 Product listing and detail pages
@@ -26,24 +26,24 @@ This is a responsive single-page e-commerce application built using React, Vite,
 ⚙️ Getting Started Locally
 1. Clone the repository
 
-git clone https://github.com/yourusername/GeniBix-E-commerce-Task.git
-cd GeniBix-E-commerce-Task
+   git clone https://github.com/yourusername/GeniBix-E-commerce-Task.git
+   cd GeniBix-E-commerce-Task
 
 2. Install dependencies
 
-npm install
+   npm install
 
 3. Start the npm run dev
 
-npm run dev
+   npm run dev
 
 4. Build for production
 
-npm run build
+   npm run build
 
 5. Preview the production build
 
-npm run preview
+   npm run preview
 
 🚀 Deployment
 To deploy the app to GitHub Pages:
@@ -56,15 +56,3 @@ Make sure your GitHub repo is connected and configured correctly before running 
 
 
 
-📁 Project Structure
-
-├── public/               # Static assets
-├── src/
-│   ├── components/       # Reusable components
-│   ├── pages/            # Route-based pages
-│   ├── App.jsx
-│   └── main.jsx
-├── tailwind.config.js
-├── vite.config.js
-├── package.json
-└── README.md
