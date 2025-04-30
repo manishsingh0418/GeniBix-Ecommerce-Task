@@ -2,7 +2,7 @@ GeniBix E-commerce Task
 This is a responsive single-page e-commerce application built using React, Vite, and Tailwind CSS. It demonstrates core frontend concepts such as routing, UI transitions, and component-based architecture.
 
 🚀 Live Demo
-🔗 Deployed URL: https://your-deployed-site-url
+🔗 Deployed URL: https://genibix-ecommerce-task.vercel.app/
 
 📂 GitHub Repository
 🔗 GitHub Repo: https://github.com/manishsingh0418/GeniBix-Ecommerce-Task.git
