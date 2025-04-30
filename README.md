@@ -1,8 +1,70 @@
-# React + Vite
+GeniBix E-commerce Task
+This is a responsive single-page e-commerce application built using React, Vite, and Tailwind CSS. It demonstrates core frontend concepts such as routing, UI transitions, and component-based architecture.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Live Demo
+🔗 Deployed URL: https://your-deployed-site-url
 
-Currently, two official plugins are available:
+📂 GitHub Repository
+🔗 GitHub Repo: https://github.com/yourusername/GeniBix-E-commerce-Task
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📦 Features
+1.	🚚 Product listing and detail pages
+2.	🧭 Client-side routing with react-router-dom
+3.	🎨 Styled with Tailwind CSS
+4.	🪄 Smooth UI animations using react-transition-group
+5.	📱 Mobile responsive layout
+6.	🛠 Deployed with GitHub Pages
+
+
+🛠 Tech Stack
+1.	Frontend: React, Vite, Tailwind CSS
+2.	Routing: React Router DOM
+3.	Icons: Heroicons
+4.	Animations: React Transition Group
+
+
+⚙️ Getting Started Locally
+1. Clone the repository
+
+git clone https://github.com/yourusername/GeniBix-E-commerce-Task.git
+cd GeniBix-E-commerce-Task
+
+2. Install dependencies
+
+npm install
+
+3. Start the npm run dev
+
+npm run dev
+
+4. Build for production
+
+npm run build
+
+5. Preview the production build
+
+npm run preview
+
+🚀 Deployment
+To deploy the app to GitHub Pages:
+
+npm run deploy
+
+The app will be built and published to the gh-pages branch.
+
+Make sure your GitHub repo is connected and configured correctly before running the deploy script.
+
+
+
+📁 Project Structure
+
+├── public/               # Static assets
+├── src/
+│   ├── components/       # Reusable components
+│   ├── pages/            # Route-based pages
+│   ├── App.jsx
+│   └── main.jsx
+├── tailwind.config.js
+├── vite.config.js
+├── package.json
+└── README.md
