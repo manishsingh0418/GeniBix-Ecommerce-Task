@@ -26,7 +26,8 @@ This is a responsive single-page e-commerce application built using React, Vite,
 ⚙️ Getting Started Locally
 1. Clone the repository
 
-   git clone https://github.com/yourusername/GeniBix-E-commerce-Task.git
+   git clone https://github.com/manishsingh0418/GeniBix-Ecommerce-Task.git
+
    cd GeniBix-E-commerce-Task
 
 2. Install dependencies
